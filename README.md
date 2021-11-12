@@ -26,46 +26,46 @@
 
 <p align="left">
     <a href=" " target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="20" height="20"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="24" height="24"/>
     </a> 
     <a href=" " target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="20" height="20"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="github" width="24" height="24"/>
     </a> 
     <a href=" " target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="20" height="20"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="24" height="24"/>
     </a> 
     <a href="https://nodejs.org/en/" target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="20" height="20"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="24" height="24"/>
     </a> 
     <a href=" " target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" width="20" height="20"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" width="24" height="24"/>
     </a> 
     <a href=" " target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="20" height="20"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express" width="24" height="24"/>
     </a> 
     <a href=" " target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongooDB" width="20" height="20"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="MongooDB" width="24" height="24"/>
     </a> 
     <a href=" " target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="20" height="20"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="24" height="24"/>
     </a> 
     <a href=" " target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="20" height="20"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="24" height="24"/>
     </a> 
     <a href=" " target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="20" height="20"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="24" height="24"/>
     </a> 
     <a href=" " target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="20" height="20"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="24" height="24"/>
     </a> 
     <a href=" " target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="electron" width="20" height="20"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" alt="electron" width="24" height="24"/>
     </a> 
     <a href=" " target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="RaspberryPI" width="20" height="20"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" alt="RaspberryPI" width="24" height="24"/>
     </a> 
     <a href="https://code.visualstudio.com/" target="_blank"> 
-        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="20" height="20"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="VSCode" width="24" height="24"/>
     </a> 
 </p>
 
