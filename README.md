@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my GitHub! I'm Basel, Full Stack Web Developer
+### Heyyo, I'm Basel!
 
 <div align="center">
 
@@ -24,7 +24,7 @@
 
 #### Tools and Technologies:
 
-<p align="left">
+<p align="left" style="background-color: red;">
     <a href=" " target="_blank"> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="24" height="24"/>
     </a> 
