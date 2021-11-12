@@ -6,7 +6,7 @@
 </div>
 
 
-##### Languages:
+#### Languages:
 <p align="left"> 
     <a href="https://www.javascript.com/" target="_blank"> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="24" height="24"/>
@@ -22,7 +22,7 @@
     </a> 
 </p>
 
-##### Tools and Technologies:
+#### Tools and Technologies:
 
 <p align="left">
     <a href=" " target="_blank"> 
